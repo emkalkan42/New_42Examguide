@@ -5,13 +5,13 @@
 
 
 Exam Rank 3
-### 1️⃣: Level 1
+### 1️⃣ Level 1
 From the previous exam rank you should be able to do all lvl 2 tasks
 
 ### 2️⃣ Level 2
 From the previous exam rank you should be able to do all lvl 3 tasks, Get_next_line and Scanf(parsing)
 
-### :3: Level 3
+### 3️⃣ Level 3
 Right now there is no information about this rank
 
 ## Exam Practice Tool (still old)
