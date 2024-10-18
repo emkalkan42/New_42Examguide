@@ -9,39 +9,17 @@
 Those with 💯 are confirmed
 
 ### :one: Level 1
-Can be any of the 20 Functions/Programs Below:
+Can be any of the ? Functions/Programs Below:
 <table><tr><td>
   
-1. [alpha_mirror](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/alpha_mirror)
-2. [camel_to_snake](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/camel_to_snake)
-3. [do_op](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/do_op) 💯
-4. [ft_atoi](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/ft_atoi)
-5. [ft_strcmp](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/ft_strcmp) 💯
-6. [ft_strcspn](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/ft_strcspn)
-7. [ft_strdup](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/ft_strdup) 💯
-8. [ft_strpbrk](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/ft_strpbrk)
-9. [ft_strrev](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/ft_strrev)
-10. [ft_strspn](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/ft_strspn)
-11. [inter](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/inter)
-12. [is_power_of_2](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/is_power_of_2)
-13. [last_word](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/last_word)
-14. [max](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/max)
-15. [print_bits](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/print_bits) 💯
-16. [reverse_bits](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/reverse_bits) 💯
-17. [snake_to_camel](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/snake_to_camel)
-18. [swap_bits](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/swap_bits) 💯
-19. [union](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/union) 💯
-20. [wdmatch](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%201/wdmatch) 💯
+1. 
 </td></tr></table>
 
 ### :two: Level 2
 Can be any of the ? Functions/Programs Below:
 <table><tr><td>
   
-1. [ft_range](https://github.com/pasqualerossi/42-School-Exam-Rank-02/blob/main/Level%203/ft_range/ft_range.c) 💯
-2. [ft_scanf](https://github.com/emkalkan42/42_Berlin-Exam_Rank_3/tree/main/42-Berlin-Exam-Rank-03/Level%202/ft_scanf) 💯
-3. [get_next_line](https://github.com/pasqualerossi/42-School-Exam-Rank-03/tree/main/get_next_line) 💯
-	GNL is going to be a task where you need to fix it and add functions not much info yet
+1. 
 </td></tr></table>
 
 ### :three: Level 3
