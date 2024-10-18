@@ -1,8 +1,9 @@
 Exam Details
 
 This is a guide for the new exam. In order to not spoil things, I won't tell you exactly what you will get in the exam, but I will show you what you should know to pass.
-Exam Rank 3
 
+
+Exam Rank 3
 
 <table><tr><td>
   
