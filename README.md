@@ -19,9 +19,13 @@ From the previous exam rank, you should be able to do all Level 3 tasks, includi
 There is currently no information about this rank.
 
 </table></tr></td>
+
 Exam Rank 4
+
 <table><tr><td>
+  
 1️⃣ Level 1
+
 You should know how to solve small algorithms.
 There is currently not much information about this rank.
 
