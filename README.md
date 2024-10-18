@@ -5,6 +5,7 @@
 
 
 Exam Rank 3
+<table><tr><td>
 ### 1️⃣ Level 1
 From the previous exam rank you should be able to do all lvl 2 tasks
 
@@ -13,6 +14,7 @@ From the previous exam rank you should be able to do all lvl 3 tasks, Get_next_l
 
 ### 3️⃣ Level 3
 Right now there is no information about this rank
+</table></tr></td>
 
 ## Exam Practice Tool (still old)
 [Link To The Tool](https://github.com/JCluzet/42_EXAM)
