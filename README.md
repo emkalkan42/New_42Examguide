@@ -5,13 +5,17 @@ Exam Rank 3
 
 
 <table><tr><td>
+  
 1️⃣ Level 1
+  
 From the previous exam rank, you should be able to do all Level 2 tasks.
 
 2️⃣ Level 2
+
 From the previous exam rank, you should be able to do all Level 3 tasks, including Get_next_line and Scanf (parsing).
 
 3️⃣ Level 3
+
 There is currently no information about this rank.
 
 </table></tr></td>
