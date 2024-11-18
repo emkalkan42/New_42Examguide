@@ -13,11 +13,11 @@ From the previous exam rank, you should be able to do all Level 2 tasks.
 
 2️⃣ Level 2
 
-From the previous exam rank, you should be able to do all Level 3 tasks, including Get_next_line and Scanf (parsing), Filter.
+Broken Get_next_line, Filter(filtering specific part of a text that you get in as stdin).
 
 3️⃣ Level 3
 
-Probably the next exam first task.
+Rank 4 Level 1 Questions (Permentations(abc-> bac -> bca ...), Queens(puting queens on the board with out puting them on a line), Salesman(getting the shortest way between points)).
 
 </table></tr></td>
 
