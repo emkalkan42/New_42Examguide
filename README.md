@@ -18,15 +18,17 @@ Broken Get_next_line
 Filter(filtering specific part of a text that you get in as stdin)
 Ft_Scanf
 
-3️⃣ Level 3
+### :three: Level 3
+Can be any of the 3 Functions/Programs Below:
+<table><tr><td>
 
-Rank 4 Level 1 Questions 
-Permentations(abc-> bac -> bca ...) 
-Queens(puting queens on the board with out puting them on a line) 
-Salesman(getting the shortest way between points)). 
-RIP (Generate all balanced versions of a parentheses string by removing some parentheses.) 
+1. [Permutations](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%203/permutations) 💯 Last seen 26.11.2024
+2. [TCP (Salesman](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%203/salesman) 💯 Last seen 28.11.2024
+3. [RIP](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%203/rip) 💯 Last seen 03.12.2024
+4. Queens
+</td></tr></table>
 
-</table></tr></td>
+<br>
 
 Exam Rank 4
 
