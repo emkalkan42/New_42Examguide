@@ -21,10 +21,10 @@ Ft_Scanf
 3️⃣ Level 3
 
 Rank 4 Level 1 Questions 
-Permentations(abc-> bac -> bca ...)
-Queens(puting queens on the board with out puting them on a line)
-Salesman(getting the shortest way between points)).
-RIP (Generate all balanced versions of a parentheses string by removing some parentheses.)
+Permentations(abc-> bac -> bca ...) 
+Queens(puting queens on the board with out puting them on a line) 
+Salesman(getting the shortest way between points)). 
+RIP (Generate all balanced versions of a parentheses string by removing some parentheses.) 
 
 </table></tr></td>
 
