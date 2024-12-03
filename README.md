@@ -12,11 +12,14 @@ Exam Rank 3
   
 From the previous exam rank, you should be able to do all Level 2 tasks.
 
-2️⃣ Level 2 (It Could be that you are not going to have the same they could change)
-
-Broken Get_next_line
-Filter(filtering specific part of a text that you get in as stdin)
-Ft_Scanf
+### :two: Level 2
+Can be any of the 3 Functions/Programs Below:
+<table><tr><td>
+  
+1. Filter Last seen 21.11.2024
+2. ft_scanfLast seen 07.11.2024 
+3. get_next_line Last seen Longtime
+</td></tr></table>
 
 ### :three: Level 3
 Can be any of the 3 Functions/Programs Below:
