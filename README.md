@@ -22,9 +22,9 @@ Ft_Scanf
 Can be any of the 3 Functions/Programs Below:
 <table><tr><td>
 
-1. [Permutations](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%203/permutations) 💯 Last seen 26.11.2024
-2. [TCP (Salesman](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%203/salesman) 💯 Last seen 28.11.2024
-3. [RIP](https://github.com/emkalkan42/New_42Exam_rank3/tree/main/Level%203/rip) 💯 Last seen 03.12.2024
+1. Permutations Last seen 26.11.2024
+2. TCP (Salesman  Last seen 28.11.2024
+3. RIP Last seen 03.12.2024
 4. Queens
 </td></tr></table>
 
