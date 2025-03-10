@@ -39,10 +39,14 @@ Exam Rank 4
   
 1️⃣ Level 1
 
+Can be any of the 4 Functions/Programs Below:
+<table><tr><td>
+
 1. Permutations (abc-> bac -> bca ...)
 2. TCP (traveling salesman problem)
 3. RIP (Generate all balanced versions of a parentheses string by removing some parentheses.)
 4. NQueens (puting queens on the board with out puting them on a line)
+</td></tr></table>
 
 2️⃣ Level 2
 There is currently no information about this rank.
