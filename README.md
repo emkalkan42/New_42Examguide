@@ -16,9 +16,9 @@ From the previous exam rank, you should be able to do all Level 2 tasks.
 Can be any of the 3 Functions/Programs Below:
 <table><tr><td>
   
-1. Filter Last seen 21.11.2024
-2. ft_scanfLast seen 07.11.2024 
-3. get_next_line Last seen Longtime
+1. Filter
+2. ft_scanf
+3. get_next_line
 </td></tr></table>
 
 ### :three: Level 3
