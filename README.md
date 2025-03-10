@@ -39,10 +39,10 @@ Exam Rank 4
   
 1️⃣ Level 1
 
-Permentations(abc-> bac -> bca ...) 
-Queens (puting queens on the board with out puting them on a line) 
-Salesman (getting the shortest way between points) 
-RIP (Generate all balanced versions of a parentheses string by removing some parentheses.) 
+1. Permutations (abc-> bac -> bca ...)
+2. TCP (traveling salesman problem)
+3. RIP (Generate all balanced versions of a parentheses string by removing some parentheses.)
+4. NQueens (puting queens on the board with out puting them on a line)
 
 2️⃣ Level 2
 There is currently no information about this rank.
