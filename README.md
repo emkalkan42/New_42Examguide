@@ -22,13 +22,13 @@ Can be any of the 3 Functions/Programs Below:
 </td></tr></table>
 
 ### :three: Level 3
-Can be any of the 3 Functions/Programs Below:
+Can be any of the 4 Functions/Programs Below:
 <table><tr><td>
 
-1. Permutations Last seen 26.11.2024
-2. TCP (Salesman  Last seen 28.11.2024
-3. RIP Last seen 03.12.2024
-4. Queens
+1. Permutations (abc-> bac -> bca ...)
+2. TCP (traveling salesman problem)
+3. RIP (Generate all balanced versions of a parentheses string by removing some parentheses.)
+4. NQueens (puting queens on the board with out puting them on a line)
 </td></tr></table>
 
 <br>
@@ -40,8 +40,8 @@ Exam Rank 4
 1️⃣ Level 1
 
 Permentations(abc-> bac -> bca ...)
-Queens(puting queens on the board with out puting them on a line)
-Salesman(getting the shortest way between points)).
+Queens (puting queens on the board with out puting them on a line)
+Salesman (getting the shortest way between points)
 RIP (Generate all balanced versions of a parentheses string by removing some parentheses.)
 
 2️⃣ Level 2
