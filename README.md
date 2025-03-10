@@ -32,7 +32,8 @@ Can be any of the 4 Functions/Programs Below:
 </td></tr></table>
 
 <br>
-
+</td></tr></table>
+<table><tr><td>
 Exam Rank 4
   
 1️⃣ Level 1
@@ -52,4 +53,5 @@ There is currently no information about this rank.
 3️⃣ Level 3
 There is currently no information about this rank.
 
+</td></tr></table>
 Exam Practice Tool (still old)
