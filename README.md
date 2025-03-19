@@ -83,17 +83,17 @@ Can be any of the 4 Functions/Programs Below:
 Can be any of the 3 Functions/Programs Below:
 <table><tr><td>
 
-1. bigint
-2. polyset
-3. vect2
+1. bigint (write a class that handles unsigned integers with [arbitrarily many digits](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic); it must have operators for adding, comparing, and digit-shift)
+2. polyset ()
+3. vect2 ()
 </td></tr></table>
 
 ### 3️⃣ Level 3
 Can be any of the 2 Functions/Programs Below:
 <table><tr><td>
 
-1. life
-2. bsq
+1. life (simulate conways game of life in the terminal)
+2. bsq (just like the one from the piscine, but using streams (fopen, fclose, getc, getline, etc.))
 </td></tr></table>
 </td></tr></table>
 
