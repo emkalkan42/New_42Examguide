@@ -36,7 +36,7 @@ Can be any of the 4 Functions/Programs Below:
 Exam Rank 4
 <table><tr><td>
   
-1️⃣ Level 1
+### 1️⃣ Level 1
 
 Can be any of the 4 Functions/Programs Below:
 <table><tr><td>
@@ -47,7 +47,7 @@ Can be any of the 4 Functions/Programs Below:
 4. NQueens (puting queens on the board with out puting them on a line)
 </td></tr></table>
 
-2️⃣ Level 2
+### 2️⃣ Level 2
 Can be any of the 3 Functions/Programs Below:
 <table><tr><td>
 
@@ -56,7 +56,7 @@ Can be any of the 3 Functions/Programs Below:
 3. sandbox (runs a function in a child process with a timeout, handling signals and exit codes)
 </td></tr></table>
 
-3️⃣ Level 3
+### 3️⃣ Level 3
 Can be any of the 2 Functions/Programs Below:
 <table><tr><td>
 
