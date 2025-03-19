@@ -8,7 +8,7 @@ Exam Rank 3
 
 <table><tr><td>
   
-1️⃣ Level 1
+### 1️⃣ Level 1
   
 From the previous exam rank, you should be able to do all Level 2 tasks.
 
