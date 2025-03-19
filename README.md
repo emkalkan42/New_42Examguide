@@ -92,7 +92,7 @@ Can be any of the 2 Functions/Programs Below:
 </td></tr></table>
 
 Exam Rank 6
-
+</td></tr></table>
 <table><tr><td>
   
 ### 1️⃣ Level 1
@@ -109,6 +109,5 @@ Can be any of the 3 Functions/Programs Below:
 <table><tr><td>
 
 1. minidb
-</td></tr></table>
 </td></tr></table>
 Exam Practice Tool (still old)
