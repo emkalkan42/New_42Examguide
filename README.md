@@ -74,7 +74,8 @@ Exam Rank 5
 Can be any of the 4 Functions/Programs Below:
 <table><tr><td>
 
-1. XXXXXXXXXXXXXXXx
+1. argo
+2. vbc
 
 </td></tr></table>
 
@@ -82,14 +83,17 @@ Can be any of the 4 Functions/Programs Below:
 Can be any of the 3 Functions/Programs Below:
 <table><tr><td>
 
-1. XXXXXXXXXXXXXXXXx
+1. bigint
+2. polyset
+3. vect2
 </td></tr></table>
 
 ### 3️⃣ Level 3
 Can be any of the 2 Functions/Programs Below:
 <table><tr><td>
 
-1. XXXXXXXXXXXXXXXXXXxx
+1. life
+2. bsq
 </td></tr></table>
 </td></tr></table>
 
@@ -111,5 +115,6 @@ Can be any of the 3 Functions/Programs Below:
 <table><tr><td>
 
 1. minidb
+</td></tr></table>
 </td></tr></table>
 Exam Practice Tool (still old)
