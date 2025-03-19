@@ -63,6 +63,7 @@ Can be any of the 2 Functions/Programs Below:
 1. argo (is a JSON parser that reads integers, strings, and maps from a stream, handling errors and memory allocation dynamically)
 2. VBC (Parses and evaluates simple math expressions using a binary tree)
 </td></tr></table>
+</td></tr></table>
 
 Exam Rank 5
 
