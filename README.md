@@ -90,9 +90,10 @@ Can be any of the 2 Functions/Programs Below:
 
 1. XXXXXXXXXXXXXXXXXXxx
 </td></tr></table>
+</td></tr></table>
 
 Exam Rank 6
-</td></tr></table>
+
 <table><tr><td>
   
 ### 1️⃣ Level 1
