@@ -90,4 +90,25 @@ Can be any of the 2 Functions/Programs Below:
 
 1. XXXXXXXXXXXXXXXXXXxx
 </td></tr></table>
+
+Exam Rank 6
+
+<table><tr><td>
+  
+### 1️⃣ Level 1
+
+Can be any of the 4 Functions/Programs Below:
+<table><tr><td>
+
+1. miniserv
+
+</td></tr></table>
+
+### 2️⃣ Level 2
+Can be any of the 3 Functions/Programs Below:
+<table><tr><td>
+
+1. minidb
+</td></tr></table>
+</td></tr></table>
 Exam Practice Tool (still old)
